@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<ComboSettings>
+  <key ID="0" Text="Select Label Printer"/>
+  <key ID="10.1.6.23" Text="LBL001"/>
+  <key ID="10.1.6.24" Text="LBL002"/>
+  <key ID="10.1.6.25" Text="LBL003"/>
+  <key ID="10.1.6.26" Text="LBL004"/>
+  <key ID="10.1.6.27" Text="LBL005"/>
+  <key ID="10.1.6.28" Text="LBL006"/>
+  <key ID="10.1.6.29" Text="LBL007"/>
+</ComboSettings>
